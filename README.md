@@ -1,14 +1,6 @@
 # UniversityInventorySystem
 # University Inventory Management System (Console App)
 
-**Course:** ITS105 Programming Fundamentals (Trimester 3, 2025)  
-**Institution:** National Academy of Professional Studies (NAPS)  
-**Project:** University Inventory Management System (Console-based)  
-**Due:** Week 11 (02/02/2026 23:59)
-
----
-
-## 📌 Project Overview
 Modern universities manage thousands of assets across departments (computers, lab tools, furniture, etc.).  
 This console-based Java application simulates a real inventory system by allowing staff to:
 
@@ -19,10 +11,6 @@ This console-based Java application simulates a real inventory system by allowin
 - Generate reports using different loop types
 - Handle invalid operations with custom exceptions
 
----
-
-## ✅ Key Features
-### Inventory Items (Polymorphism)
 The system supports multiple item types using inheritance:
 - **Equipment**
 - **Furniture**
