@@ -44,6 +44,4 @@ Custom exceptions provide clear error handling:
 - `StaffMemberNotFoundException`
 - `AssignmentLimitExceededException`
 
----
 
-## 🧱 Project Structure
