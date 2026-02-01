@@ -1,6 +1,4 @@
 # UniversityInventorySystem
-# University Inventory Management System (Console App)
-
 Modern universities manage thousands of assets across departments (computers, lab tools, furniture, etc.).  
 This console-based Java application simulates a real inventory system by allowing staff to:
 
